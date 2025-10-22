@@ -33,9 +33,13 @@ salary compared to those with fewer years of experience
 10. <img width="1366" height="768" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/76d4b894-552d-4a18-87a8-15084a39690b" />
 11. <img width="1366" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/7aeb34b8-62fe-4286-bcde-a8785542647f" />
 
+### Dashboard Creation: Objective
 
+To prepare a one-page company workforce and compensation dashboard for GlobalTech Solutions 
 
+### Link to dashboard
 
+https://1drv.ms/x/c/4f5cb6ce77f5cece/EW5qtErdKSpKrBDatqn6ThAB2NHHHhzUjV2yMttYNZz7Rw?e=R4EbXw
 
 
 
